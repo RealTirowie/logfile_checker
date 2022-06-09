@@ -1,0 +1,4 @@
+13.06.2019 19:28:18 Verbose: 0 : *** 
+14.06.2019 11:55:30 Information: 2 : [Übernahme] 2019-06-14 11:55:30 (Antrag=wetwt, Polizze=wetwet, 10.13.1.49)
+14.06.2019 11:55:30 Verbose: 0 : Vor Vertrag suchen Neuanlegen
+
